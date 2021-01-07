@@ -2,7 +2,7 @@
   "name": "@tombatossals/chords-db",
   "version": "0.5.1",
   "description": "Instrument Chords Database",
-  "main": "index.js",
+  "main": "dist/db.js",
   "scripts": {
     "test": "jest src",
     "stdout": "babel-node src/generate",
