@@ -1,0 +1,26 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+var _default = {
+  key: 'Ab',
+  suffix: 'maj7b5',
+  positions: [{
+    frets: '1233',
+    fingers: '1234'
+  }, {
+    frets: '5745',
+    fingers: '2413'
+  }, {
+    frets: '788a',
+    fingers: '1234'
+  }, {
+    frets: 'dcaa',
+    fingers: '4311',
+    barres: 10,
+    capo: true
+  }]
+};
+exports["default"] = _default;
