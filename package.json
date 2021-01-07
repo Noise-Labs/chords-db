@@ -7,9 +7,7 @@
     "test": "jest src",
     "stdout": "babel-node src/generate",
     "build": "babel-node src/generate json",
-    "umd" : "babel src -d dist",
-    "precommit": "lint-staged",
-    "prepublish": "npm run build",
+    "umd": "babel src -d dist",
     "prettier": "prettier --single-quote --write \"src/**/*.{js,jsx}\""
   },
   "repository": {
